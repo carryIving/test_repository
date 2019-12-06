@@ -9,4 +9,8 @@ public class UserController {
     public void register(){
 
     }
+
+    public void findAll(){
+
+    }
 }
